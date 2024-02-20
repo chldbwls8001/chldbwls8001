@@ -1,6 +1,14 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=08BD80&height=150&section=header&fontColor=ffffff&fontSize=30&text=Hello&#44;&nbsp;World!&fontAlignY=35)
 
+
+
+
+![yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldbwls8001&show_icons=true&theme=vue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=chldbwls8001)](https://solved.ac/chldbwls8001)
+
+<br/><hr/>
+
 #### ✔ STACK 
 <code><img alt = "java" height="20" src="https://img.icons8.com/?size=2x&id=GPfHz0SM85FX&format=gif"> Java</code>
 <code><img alt = "JavaScript" height="20" src="https://img.icons8.com/?size=2x&id=tGvHBPJaKqEd&format=gif"> JavaScript</code>
@@ -43,6 +51,3 @@
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"><br/><br/>
 -->
-<hr/><br/>
-
-![yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldbwls8001&show_icons=true&theme=vue)
