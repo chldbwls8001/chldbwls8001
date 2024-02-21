@@ -24,19 +24,20 @@
   <h4 align="center">TECH STACK</h4>
   
   <p align="center">
-  <code><img alt = "java" height="20" src="https://img.icons8.com/?size=2x&id=GPfHz0SM85FX&format=gif"> Java</code>
-  <code><img alt = "JavaScript" height="20" src="https://img.icons8.com/?size=2x&id=tGvHBPJaKqEd&format=gif"> JavaScript</code>
-  <code><img alt = "HTML5" height="20" src="https://img.icons8.com/?size=2x&id=20909&format=png"> HTML5</code>
-  <code><img alt = "CSS3" height="20" src="https://img.icons8.com/?size=2x&id=21278&format=png"> CSS3</code>
-  <code><img alt = "MySQL" height="20" src="https://img.icons8.com/?size=2x&id=rgPSE6nAB766&format=png"> MySQL</code><br/>
+    <code><img alt = "java" height="20" src="https://img.icons8.com/?size=2x&id=GPfHz0SM85FX&format=gif"> <strong>Java</strong></code>
+    <code><img alt = "MySQL" height="20" src="https://img.icons8.com/?size=2x&id=rgPSE6nAB766&format=png"> <strong>MySQL</strong></code>
+    <code><img alt = "Spring" height="20" src="https://img.icons8.com/?size=2x&id=90519&format=png"> <strong>Spring</strong></code>
+    <code><img alt = "Spring boot" height="20" src="https://img.icons8.com/?size=2x&id=2oBx9FpXcbLa&format=png"> <strong>Spring boot</strong></code>
+  <br/>
   </p>
   
   <p align="center">
-  <code><img alt = "React" height="20" src="https://img.icons8.com/?size=2x&id=t5K2CR8feVdX&format=gif"> React</code>
-  <code><img alt = "jQuery" height="20" src="https://img.icons8.com/?size=2x&id=HKNzD81eiiSc&format=png"> jQuery</code>
-  <code><img alt = "Spring" height="20" src="https://img.icons8.com/?size=2x&id=90519&format=png"> Spring</code>
-  <code><img alt = "Spring boot" height="20" src="https://img.icons8.com/?size=2x&id=2oBx9FpXcbLa&format=png"> Spring boot</code>
-  <code><img alt = "Bootstrap" height="20" src="https://img.icons8.com/?size=2x&id=mRiGJYwO8l6B&format=png"> Bootstrap</code><br/>
+    <code><img alt = "JavaScript" height="20" src="https://img.icons8.com/?size=2x&id=tGvHBPJaKqEd&format=gif"> JavaScript</code>
+    <code><img alt = "HTML5" height="20" src="https://img.icons8.com/?size=2x&id=20909&format=png"> HTML5</code>
+    <code><img alt = "CSS3" height="20" src="https://img.icons8.com/?size=2x&id=21278&format=png"> CSS3</code>
+    <code><img alt = "React" height="20" src="https://img.icons8.com/?size=2x&id=t5K2CR8feVdX&format=gif"> React</code>
+    <code><img alt = "jQuery" height="20" src="https://img.icons8.com/?size=2x&id=HKNzD81eiiSc&format=png"> jQuery</code>
+    <code><img alt = "Bootstrap" height="20" src="https://img.icons8.com/?size=2x&id=mRiGJYwO8l6B&format=png"> Bootstrap</code><br/>
   </p>
   
   <br/>
@@ -44,13 +45,13 @@
   <h4 align="center">TOOLS</h4>
   
   <p align="center">
-  <code><img alt = "Eclipse" height="20" src="https://img.icons8.com/?size=2x&id=H0fFZSvORhnB&format=png"> Eclipse</code>
-  <code><img alt = "IntelliJ" height="20" src="https://img.icons8.com/?size=48&id=61466&format=png"> IntelliJ</code>
-  <code><img alt = "VScode" height="20" src="https://img.icons8.com/?size=2x&id=9OGIyU8hrxW5&format=png"> VScode</code>
-  <code><img alt = "git" height="20" src="https://img.icons8.com/?size=2x&id=20906&format=png"> git</code>
-  <code><img alt = "github" height="20" src="https://img.icons8.com/?size=2x&id=AZOZNnY73haj&format=png"> github</code>
-  <code><img alt = "slack" height="20" src="https://img.icons8.com/?size=2x&id=kikR2jIn6485&format=png"> slack</code>
-  <code><img alt = "figma" height="20" src="https://img.icons8.com/?size=2x&id=8gfeOoqrHqJU&format=gif"> figma</code><br/><br/>
+    <code><img alt = "Eclipse" height="20" src="https://img.icons8.com/?size=2x&id=H0fFZSvORhnB&format=png"> Eclipse</code>
+    <code><img alt = "IntelliJ" height="20" src="https://img.icons8.com/?size=48&id=61466&format=png"> IntelliJ</code>
+    <code><img alt = "VScode" height="20" src="https://img.icons8.com/?size=2x&id=9OGIyU8hrxW5&format=png"> VScode</code>
+    <code><img alt = "git" height="20" src="https://img.icons8.com/?size=2x&id=20906&format=png"> git</code>
+    <code><img alt = "github" height="20" src="https://img.icons8.com/?size=2x&id=AZOZNnY73haj&format=png"> github</code>
+    <code><img alt = "slack" height="20" src="https://img.icons8.com/?size=2x&id=kikR2jIn6485&format=png"> slack</code>
+    <code><img alt = "figma" height="20" src="https://img.icons8.com/?size=2x&id=8gfeOoqrHqJU&format=gif"> figma</code><br/><br/>
   </p>
 </div>
 
